@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains an implementation of multiinstrument detection in polyphonic recordings on the OpenMIC-2018 dataset.
+This repository contains an implementation of multi-instrument recognition in polyphonic recordings on the OpenMIC-2018 dataset.
 
 ## Reference
 
